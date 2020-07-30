@@ -79,7 +79,7 @@ subscriptions model =
 
 lazy : Bool
 lazy =
-    False
+    True
 
 
 subView : Model -> Element Msg
