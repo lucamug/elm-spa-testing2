@@ -1,3 +1,0 @@
-https://elm-spa-example.guupa.com/
-https://elm-spa-example.guupa.com/page-a
-https://elm-spa-example.guupa.com/page-b
